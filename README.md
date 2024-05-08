@@ -1,6 +1,6 @@
 # Desbravando os Dados: Uma Aventura de Integração e Análise
 
-No coração da indústria petrolífera, mergulhei de cabeça em um projeto desafiador na Petrobras. Imagine uma montanha de dados, dispersos em diferentes unidades operacionais, cada um contando uma parte da história da produção, manutenção e logística. Meu trabalho? Integrar esses dados de forma coesa e transformá-los em insights valiosos. Vamos embarcar nessa jornada!
+No coração da indústria petrolífera, mergulhei de cabeça em um projeto desafiador na OceanEnergy Inc. Imagine uma montanha de dados, dispersos em diferentes unidades operacionais, cada um contando uma parte da história da produção, manutenção e logística. Meu trabalho? Integrar esses dados de forma coesa e transformá-los em insights valiosos. Vamos embarcar nessa jornada!
 
 1. Integrando os Dados com SQL:
 Primeiro, precisávamos unir os pontos. Utilizando SQL, mergulhei nas profundezas das bases de dados, desde os sistemas de produção até os registros de manutenção e logs logísticos. Foram consultas complexas, mas fundamentais para garantir que os dados estivessem alinhados e prontos para análise.
